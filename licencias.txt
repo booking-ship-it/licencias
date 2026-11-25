@@ -1,0 +1,8 @@
+# Licencias de KINGDRA CONTROL (V4)
+# Una linea por usuario. Formato:
+# CLAVE estado [hasta AAAA-MM-DD] ["mensaje"]
+# Estados validos: activo | bloqueado
+# Ejemplos:
+# ANA-4821 activo
+# LUIS-1937 bloqueado hasta 2026-12-01 "Pago pendiente"
+# PEDRO-5510 bloqueado "Licencia cancelada"
