@@ -6,3 +6,6 @@
 # ANA-4821 activo
 # LUIS-1937 bloqueado hasta 2026-12-01 "Pago pendiente"
 # PEDRO-5510 bloqueado "Licencia cancelada"
+# Claves permanentes del dueno (no bloquear nunca):
+ELCEO-1000-0001 activo
+EJECUTIVO-1000-0002 activo
